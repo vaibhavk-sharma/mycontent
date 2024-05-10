@@ -1,0 +1,7 @@
+﻿EmployeeId,EmployeeName,Designation,ManagerName,Department,Location
+1000,Jesper,CEO,,Operational Management,Malta
+1001,Fredrik Orgen,CTO,Jesper,Operational Management,Malta
+1002,Ryan Schembri,Acting Chief Product Officer,Fredrik Orgen,Prouduct Development,Malta
+1003,Jonathan Cassar,Director of Sportsbook,Ronni Hartvig,Product Development,Malta
+1004,Ronni Hartvig,Chief Commercial Officer,Jesper,Operational Management,Malta
+1005,Davis Bonnici,Chief Architect,Fredrik Orgen,Enterprise Architecture,Stockholm
